@@ -9,5 +9,5 @@ slug: /notes-intro
 
 | 标题 | 内容 |
 |-|-|
-| TypeScript | 整理ts笔记 |
+| TypeScript | 整理笔记 |
 | 网络安全 | 网络攻击方面的知识 |
