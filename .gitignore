@@ -1,6 +1,6 @@
-# Dependencie s
+# Dependencies
 /node_modules
-
+/build
 # Production
 
 # Generated files
