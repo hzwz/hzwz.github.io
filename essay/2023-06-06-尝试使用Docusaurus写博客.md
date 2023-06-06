@@ -12,4 +12,4 @@ tags: [Github, Docusaurus]
 
 希望能够坚持写下去
 
-先给 Docusaurus 点个赞吧！！！
+先给 Docusaurus 点个赞吧！！
