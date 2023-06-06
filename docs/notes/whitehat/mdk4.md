@@ -39,7 +39,7 @@ sudo airodump-ng --band a wlp8s0mon
 
 ### 常用情景
 
-Deauthentication 攻击，断掉信道为 11 无线网络的全部客户端连接。
+Deauthentication 攻击，断掉信道为 11 无线网络的全部客户端连接
 ```bash
 sudo mdk4 wlp8s0mon d -c 11
 ```
