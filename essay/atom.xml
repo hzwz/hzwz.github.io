@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hzwz.github.io/essay</id>
-    <title>Atomic Blog</title>
+    <title>ice Blog</title>
     <updated>2023-06-06T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://hzwz.github.io/essay"/>
-    <subtitle>Atomic Blog</subtitle>
+    <subtitle>ice Blog</subtitle>
     <icon>https://hzwz.github.io/img/favicon.webp</icon>
     <entry>
         <title type="html"><![CDATA[尝试使用 Docusaurus 写博客]]></title>

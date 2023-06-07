@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hzwz.github.io/blog</id>
-    <title>Atomic Blog</title>
+    <title>ice Blog</title>
     <updated>2022-11-03T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://hzwz.github.io/blog"/>
-    <subtitle>Atomic Blog</subtitle>
+    <subtitle>ice Blog</subtitle>
     <icon>https://hzwz.github.io/img/favicon.webp</icon>
     <entry>
         <title type="html"><![CDATA[Git 根据已有分支新建分支开发]]></title>
