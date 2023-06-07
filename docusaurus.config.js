@@ -13,7 +13,7 @@ const config = {
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.webp',
-  organizationName: ice, // Usually your GitHub org/user name.
+  organizationName: 'ice', // Usually your GitHub org/user name.
   projectName: 'hzwz.github.io', // Usually your repo name.
 
   presets: [
