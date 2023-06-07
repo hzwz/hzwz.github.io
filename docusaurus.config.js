@@ -6,14 +6,14 @@ const darkCodeTheme = require('prism-react-renderer/themes/vsDark');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'ICE',
+  title: 'ice',
   tagline: '菩提本无树，明镜亦非台，本来无一物，何处惹尘埃',
   url: 'https://hzwz.github.io',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.webp',
-  organizationName: hzwz', // Usually your GitHub org/user name.
+  organizationName: ice, // Usually your GitHub org/user name.
   projectName: 'hzwz.github.io', // Usually your repo name.
 
   presets: [
