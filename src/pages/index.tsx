@@ -14,7 +14,7 @@ function HomepageHeader() {
         <h1 className={styles.hero_title}>
           <span
             style={{ color: 'var(--ifm-color-primary)' }}
-          >Atomic</span> ~ 记事本</h1>
+          >ICE</span> ~ 记事本</h1>
         <p className="hero__subtitle">菩提本无树，明镜亦非台，本来无一物，何处惹尘埃。</p>
       </div>
       <div className={styles.welcome_svg}>
@@ -29,7 +29,7 @@ export default function Home() {
     <Layout
       description="记录学习、留住生活，尝试坚持写一点东西，让每天过的慢一点。">
         <Head>
-          <title>Atomic的记事本</title>
+          <title>ICE的记事本</title>
         </Head>
       <HomepageHeader />
       <main>
