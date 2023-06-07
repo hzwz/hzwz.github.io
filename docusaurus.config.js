@@ -100,7 +100,7 @@ const config = {
                 to: 'blog',
               },
               {
-                label: '乐趣',
+                label: '折腾',
                 to: 'docs/hackfun-intro',
               },
               {
@@ -114,7 +114,7 @@ const config = {
             items: [
               {
                 label: 'Github',
-                href: 'https://github.com/cxOrz',
+                href: 'https://github.com/hzwz',
               },
             ],
           },
