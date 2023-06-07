@@ -29,7 +29,7 @@ export default function Home() {
     <Layout
       description="记录学习、留住生活，尝试坚持写一点东西，让每天过的慢一点。">
         <Head>
-          <title>喵屋 - 欢迎来到小屋</title>
+          <title>Atomic的记事本</title>
         </Head>
       <HomepageHeader />
       <main>
