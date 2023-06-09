@@ -75,7 +75,7 @@ const config = {
           {
             type: 'doc',
             docId: 'hackfun/hackfun-intro',
-            label: '乐趣',
+            label: '漏洞挖掘',
             position: 'left'
           },
           {
